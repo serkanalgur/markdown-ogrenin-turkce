@@ -12,7 +12,7 @@ Markdown yeniden uygulanmaya başladığından beri Perl modülü olarak kullan�
 
 **GitHub**, **GitBook**, **Reddit**, **Diaspora**, **Stack Overflow**, **OpenStreetMap**, ve diğer çoğu uygulama ve site Markdown kullanıyor.
 
-Bu kitap bile Markdown ile yazıldı: [Sayfanın kaynak kodu](https://raw.githubusercontent.com/kaisercrazy/markdown-ogrenin-turkce/master/about/README.mds).
+Bu kitap bile Markdown ile yazıldı: [Sayfanın kaynak kodu](https://raw.githubusercontent.com/kaisercrazy/markdown-ogrenin-turkce/master/about/README.md).
 
 ### Dosyalar
 
